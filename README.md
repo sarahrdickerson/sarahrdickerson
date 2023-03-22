@@ -11,13 +11,25 @@
   </a>
 </p>
 <br/>
-- 📫 How to reach me: sarahdickerson@utexas.edu
-- 😄 Pronouns: she/they
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+### Projects
+[![](https://img.shields.io/badge/-🤗%20My%20Website-000)](https://sarahrdickerson.github.io)
+[![](https://img.shields.io/badge/-🍒%20Fruit%20Masters-000)](https://github.com/sarahrdickerson/fruitMasters)
+
 <br/>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahrdickerson&show_icons=true)
 
-
+<br/>
 <a target="_blank" href="https://www.linkedin.com/in/srdickerson/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
