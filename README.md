@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/badge/linkedin-srdickerson-blue">
   </a>
   
-  <a href="https://www.instagram.com/sarahhshao/">
-    <img src="https://img.shields.io/badge/instagram-sarahhshao-red">
+  <a href="https:/www.sarahrdickerson.github.io/">
+    <img src="https://img.shields.io/badge/website-website-red">
   </a>
 </p>
 <br/>
