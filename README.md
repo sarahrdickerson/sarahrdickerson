@@ -3,11 +3,11 @@
 
 <p align="center"><br/>
    <a href="https://www.linkedin.com/in/srdickerson/">
-    <img src="https://img.shields.io/badge/linkedin-srdickerson-blue">
+    <img src="https://img.shields.io/badge/LinkedIn-srdickerson-blue">
   </a>
   
-  <a href="https:/www.sarahrdickerson.github.io/">
-    <img src="https://img.shields.io/badge/website-website-red">
+  <a href="https://sarahrdickerson.github.io">
+    <img src="https://img.shields.io/badge/Personal Website-website-purple">
   </a>
 </p>
 <br/>
