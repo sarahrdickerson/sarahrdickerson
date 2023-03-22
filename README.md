@@ -1,7 +1,20 @@
-[![](https://raw.githubusercontent.com/sarahrdickerson/sarahrdickerson/main/banner_dark.gif)](https://www.sarahrdickerson.github.io/)
-### Hi there 👋
+[![](https://raw.githubusercontent.com/sarahrdickerson/sarahrdickerson/main/banner.gif)](https://www.sarahrdickerson.github.io/)
+<h1 align="center">Hi there, I'm Sarah Dickerson!</h1>
+
+<p align="center"><br/>
+   <a href="https://www.linkedin.com/in/srdickerson/">
+    <img src="https://img.shields.io/badge/linkedin-srdickerson-blue">
+  </a>
+  
+  <a href="https://www.instagram.com/sarahhshao/">
+    <img src="https://img.shields.io/badge/instagram-sarahhshao-red">
+  </a>
+</p>
+<br/>
 - 📫 How to reach me: sarahdickerson@utexas.edu
 - 😄 Pronouns: she/they
+<br/>
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahrdickerson&show_icons=true)
 
 
