@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 📫 How to reach me: sarahdickerson@utexas.edu
 - 😄 Pronouns: she/they
-<br/>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahrdickerson&show_icons=true)
-<br/>
+
 
 <a target="_blank" href="https://www.linkedin.com/in/srdickerson/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
