@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 📫 How to reach me: sarahdickerson@utexas.edu
+- 😄 Pronouns: she/they
 
 <!--
 **sarahrdickerson/sarahrdickerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
