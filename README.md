@@ -1,3 +1,4 @@
+[![](https://raw.githubusercontent.com/sarahrdickerson/sarahrdickerson/main/banner_dark.gif)](https://www.sarahrdickerson.github.io/)
 ### Hi there 👋
 - 📫 How to reach me: sarahdickerson@utexas.edu
 - 😄 Pronouns: she/they
