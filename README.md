@@ -2,13 +2,17 @@
 <h1 align="center">Hi there, I'm Sarah Dickerson!</h1>
 
 <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/srdickerson/">
+   <a target="_blank" href="https://www.linkedin.com/in/srdickerson/">
     <img src="https://img.shields.io/badge/LinkedIn-srdickerson-blue">
   </a>
   
-  <a href="https://sarahrdickerson.github.io">
+  <a target="_blank" href="https://sarahrdickerson.github.io">
     <img src="https://img.shields.io/badge/Personal Website-website-purple">
   </a>
+   
+   <a target="_blank" href="mailto:sarahrdickerson@gmail.com">
+    <img src="https://img.shields.io/badge/Contact Me-email-ff69b4">
+   </a>
 </p>
 <br/>
 
@@ -35,14 +39,6 @@
 <br/>
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahrdickerson&show_icons=true)
-
-<br/>
-<a target="_blank" href="https://www.linkedin.com/in/srdickerson/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto:sarahrdickerson@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 <br/>
 <!--
