@@ -17,7 +17,9 @@
 <br/>
 
 <p align="center"><br/>
-   I'm currently pursuing a **B.S. in Electrical and Computer Engineering** from The University of Texas at Austin. <br/>
+   I'm currently pursuing a B.S. in Electrical and Computer Engineering from The University of Texas at Austin. <br/>
+   I'm looking for open source projects to contribute to and am open to any opportunities that come my way! <br/>
+   Overall, my focus is gaining opportunities to grow as a developer and expand my skills :) <br/>
 </p>
 <br/>
 
