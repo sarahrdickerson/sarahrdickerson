@@ -16,7 +16,7 @@
 </p>
 <br/>
 
-<img align='right' src='raw.githubusercontent.com/sarahrdickerson/sarahrdickerson/main/computer-unscreen.gif' width='150"'>
+<img align='right' src='https://github.com/sarahrdickerson/sarahrdickerson/blob/main/computer-unscreen.gif' width='150"'>
 
 <p align="center"><br/>
    I'm currently pursuing a B.S. in Electrical and Computer Engineering from The University of Texas at Austin. <br/>
