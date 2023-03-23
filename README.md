@@ -16,6 +16,11 @@
 </p>
 <br/>
 
+<p align="center"><br/>
+   I'm currently pursuing a **B.S. in Electrical and Computer Engineering** from The University of Texas at Austin. <br/>
+</p>
+<br/>
+
 ### Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
