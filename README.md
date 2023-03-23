@@ -16,6 +16,8 @@
 </p>
 <br/>
 
+<img align='right' src='raw.githubusercontent.com/sarahrdickerson/sarahrdickerson/main/computer-unscreen.gif' width='150"'>
+
 <p align="center"><br/>
    I'm currently pursuing a B.S. in Electrical and Computer Engineering from The University of Texas at Austin. <br/>
    I'm looking for open source projects to contribute to and am open to any opportunities that come my way! <br/>
