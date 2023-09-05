@@ -42,6 +42,7 @@
 
 ### Projects
 [![](https://img.shields.io/badge/-🤗%20My%20Website-000)](https://sarahrdickerson.github.io)
+[![](https://img.shields.io/badge/-💡%20Hardware-as-a-Service%20Website-000)](https://github.com/sarahrdickerson/ECE461L-TeamProject)
 [![](https://img.shields.io/badge/-🍒%20Fruit%20Masters-000)](https://github.com/sarahrdickerson/fruitMasters)
 
 <br/>
