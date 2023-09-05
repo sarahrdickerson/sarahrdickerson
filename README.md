@@ -21,7 +21,8 @@
 <p align="center"><br/>
    I'm currently pursuing a B.S. in Electrical and Computer Engineering from The University of Texas at Austin. <br/>
    I'm looking for open source projects to contribute to and am open to any opportunities that come my way! <br/>
-   Overall, my focus is gaining opportunities to grow as a developer and expand my skills :) <br/>
+   Overall, my focus is gaining opportunities to grow as a developer and expand my skills :) <br/> <br/>
+   Additionally, as graduation approaches I'm seeking full time software engineering positions for May 2024 <br/>
 </p>
 <br/>
 
@@ -42,7 +43,7 @@
 
 ### Projects
 [![](https://img.shields.io/badge/-🤗%20My%20Website-000)](https://sarahrdickerson.github.io)
-[![](https://img.shields.io/badge/-💡%20Hardware-as-a-Service%20Website-000)](https://github.com/sarahrdickerson/ECE461L-TeamProject)
+[![](https://img.shields.io/badge/-💡%20Hardware%20as%20a%20Service%20Website-000)](https://github.com/sarahrdickerson/ECE461L-TeamProject)
 [![](https://img.shields.io/badge/-🍒%20Fruit%20Masters-000)](https://github.com/sarahrdickerson/fruitMasters)
 
 <br/>
