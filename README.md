@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/sarahrdickerson/sarahrdickerson/main/banner.gif)](https://www.sarahrdickerson.github.io/)
+[![](https://raw.githubusercontent.com/sarahrdickerson/sarahrdickerson/main/light_mode.gif)](https://www.sarahrdickerson.github.io/)
 <h1 align="center">Hi there, I'm Sarah Dickerson!</h1>
 
 <p align="center"><br/>
